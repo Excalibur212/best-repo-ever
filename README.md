@@ -3,4 +3,5 @@ Salesforce Trailhead - Git and GitHub Basics
 
 this is a Ken test
 
-here are some more changes on line 3
+This is ALTERNATE line 3.
+And line 4.
